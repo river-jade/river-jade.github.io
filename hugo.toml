@@ -1,4 +1,6 @@
 baseURL = 'https://www.evolvecommunity.world'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Evolve Community'
 theme = 'ananke'
+enableEmoji = true
+
